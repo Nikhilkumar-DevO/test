@@ -1,0 +1,5 @@
+int(input("enter your age :")
+  if age >=18
+  print("helloworld")
+  else
+  print("not found")
